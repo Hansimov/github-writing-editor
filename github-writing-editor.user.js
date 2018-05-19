@@ -8,8 +8,8 @@
 // @grant        GM_getValue
 // @grant        GM_setValue
 // @supportURL   https://github.com/Hansimov/github-writing-editor/issues
-// @updateURL    https://github.com/Hansimov/github-writing-editor/raw/master/github-comments-editor/github-comments-editor.user.js
-// @downloadURL  https://github.com/Hansimov/Small-Scripts-and-Tiny-Tools/raw/master/github-comments-editor/github-comments-editor.user.js
+// @updateURL    https://github.com/Hansimov/github-writing-editor/raw/master/github-writing-editor.user.js
+// @downloadURL  https://github.com/Hansimov/github-writing-editor/raw/master/github-writing-editor.user.js
 // @require      https://github.com/markedjs/marked/raw/master/marked.min.js
 // ==/UserScript==
 

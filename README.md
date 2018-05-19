@@ -1,13 +1,19 @@
 ## Introduction
 
-This userscript works at `https://github.com/*/issues/*`.
+Currently, this userscript works at `https://github.com/*/issues/*`.
+
+I will apply this userscript to more GitHub websites later (if time permits).
 
 It enhances the capabilities of the original GitHub issue comments editor.
 
 
 ## Installation
 
+(To be added ...)
+
 ## Usage
+
+(To be added ...)
 
 ## Main features of this userscript
 
